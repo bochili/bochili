@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![My Data](https://github-readme-stats.vercel.app/api?username=bochili)]()
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bochili&locale=en&layout=compact&card_width=440&hide_title=false&langs_count=8&hide_border=false&order=2&custom_title=Code%20with..." height="195px" alt="languages graph"  />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bochili&locale=en&layout=compact&card_width=440&hide_title=false&langs_count=8&hide_border=false&order=2&custom_title=Code%20with..." height="195px" alt="languages graph"  />-->
